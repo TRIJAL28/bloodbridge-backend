@@ -11,6 +11,7 @@ app.use(cors({
     'http://localhost:5500',
     'http://127.0.0.1:5500',
     'https://bloodbridge-frontend.vercel.app',
+    'https://bloodbridge-frontend-git-main.vercel.app',
   ],
   credentials: true,
 }));
